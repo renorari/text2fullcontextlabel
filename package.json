@@ -1,0 +1,12 @@
+{
+  "name": "text2fullcontextlabel",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Renorari",
+  "license": "MIT"
+}
